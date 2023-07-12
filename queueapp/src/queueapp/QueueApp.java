@@ -8,7 +8,7 @@ public class QueueApp {
         q.enqueue("Element 1");
         q.enqueue("Element 2");
         q.enqueue("Element 3");
-        System.out.prinln("Add three elements");
+        System.out.println("Add three elements");
         
         System.out.println("size is "+q.size());
         
@@ -31,7 +31,7 @@ public class QueueApp {
         }
         
         System.out.println("size is empty? " + q.size());
-        System.out.println("dequeued: " + q.dequede());
+        System.out.println("dequeued: " + q.dequeue());
         
         System.out.println("size is   empty? " + q.size());
         

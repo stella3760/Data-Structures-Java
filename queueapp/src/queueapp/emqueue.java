@@ -17,7 +17,7 @@ public class emqueue {
             System.out.println("size is: "+str_queue.size());
         }
         
-        Sustem.out.println("The Queue contents: "+str_queue);
+        System.out.println("The Queue contents: "+str_queue);
     }
     
 }
