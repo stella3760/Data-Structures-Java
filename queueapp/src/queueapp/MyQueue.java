@@ -15,7 +15,7 @@ public class MyQueue implements QueueInterface {
     }
     
     public int size(){
-        return the.Queue.size();
+        return theQueue.size();
     }
     
     public Object frontElement(){
